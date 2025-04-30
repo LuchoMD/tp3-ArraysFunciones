@@ -33,4 +33,4 @@ Este proyecto contiene ejercicios de practica, cada uno cuenta con sus respectiv
 Puedes clonar el repositorio y revisar todos los ejercicios.
 
 ```bash
-git clone https://github.com/LuchoMD/TP-1-js.git
+git clone https://github.com/LuchoMD/tp3-ArraysFunciones.git
