@@ -1,4 +1,4 @@
-# Trabajo Práctico N° 2 - JavaScript
+# Trabajo Práctico N° 3 - JavaScript
 
 Este proyecto consiste en una serie de **ejercicios prácticos en JavaScript** con dificultad creciente. Está orientado a reforzar los conocimientos básicos de lógica de programación.
 
@@ -7,6 +7,7 @@ Se trabajó con los siguientes conceptos clave del lenguaje:
 - Declaración y uso de **variables**.
 - Uso de **condicionales simples** (`if`, `else`).
 - Ciclos de repeticion**while, do-while, for**.
+- Arrasy y funciones.
 ---
 
 ## 🛠️ Herramientas utilizadas
